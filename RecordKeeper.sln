@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordKeeperWinForms", "RecordKeeperWinForms\RecordKeeperWinForms.csproj", "{84150C2E-DC80-47D3-B7C4-0C97A87D759B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPUFramework", "..\CPUFramework\CPUFramework.csproj", "{6686C50E-215D-422F-B400-BC7781232CEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordKeeperBizObjects", "RecordKeeperBizObjects\RecordKeeperBizObjects.csproj", "{7C60ECD2-D9ED-4711-A165-E137E1988EE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordKeeperTest", "RecordKeeperTest\RecordKeeperTest.csproj", "{BE2D13DD-7C3A-4370-8F8B-F08F249A24A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordKeeperWeb", "RecordKeeperWeb\RecordKeeperWeb.csproj", "{FECB2D44-5538-48F5-864A-3685857EC9C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84150C2E-DC80-47D3-B7C4-0C97A87D759B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84150C2E-DC80-47D3-B7C4-0C97A87D759B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84150C2E-DC80-47D3-B7C4-0C97A87D759B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84150C2E-DC80-47D3-B7C4-0C97A87D759B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6686C50E-215D-422F-B400-BC7781232CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6686C50E-215D-422F-B400-BC7781232CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6686C50E-215D-422F-B400-BC7781232CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6686C50E-215D-422F-B400-BC7781232CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C60ECD2-D9ED-4711-A165-E137E1988EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C60ECD2-D9ED-4711-A165-E137E1988EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C60ECD2-D9ED-4711-A165-E137E1988EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C60ECD2-D9ED-4711-A165-E137E1988EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2D13DD-7C3A-4370-8F8B-F08F249A24A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2D13DD-7C3A-4370-8F8B-F08F249A24A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2D13DD-7C3A-4370-8F8B-F08F249A24A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2D13DD-7C3A-4370-8F8B-F08F249A24A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FECB2D44-5538-48F5-864A-3685857EC9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECB2D44-5538-48F5-864A-3685857EC9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECB2D44-5538-48F5-864A-3685857EC9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECB2D44-5538-48F5-864A-3685857EC9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E89374D4-BC31-4AAF-A693-B39E3362FECC}
+	EndGlobalSection
+EndGlobal
